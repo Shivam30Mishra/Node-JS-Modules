@@ -1,0 +1,4 @@
+x.x.x => major.minor.patch
+patch update is fixing the bug
+minor update is adding the functionality
+major update is newer version code is'nt compatible with any of previous version code

@@ -1,0 +1,14 @@
+{
+  "name": "10_create-package.json-using-npm-unit",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivam Mishra",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.21" 
+  }
+}
